@@ -1,4 +1,5 @@
-#include "combinations_of_string.h"
+#include<stdio.h>
+#include<conio.h>
 
 void combinations(char *str)
 {
