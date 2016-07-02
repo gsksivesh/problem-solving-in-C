@@ -1,5 +1,8 @@
 # problem-solving-in-C
 
+#Combinations of String
+Given a string, finding all the possible subsets of the String
+
 #Merge sort
 It's a sorting technique which uses the principle of divide and conquer using recursion.
 
