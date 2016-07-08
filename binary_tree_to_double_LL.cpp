@@ -7,7 +7,7 @@ struct node
 };
 
 //start function
-struct node *to_doubly(struct node *root);
+struct node * to_doubly(struct node *root);
 
 //main logic(LEFT-RIGHT-MERGE)
 struct node * binary_tree_to_doubly_LL(struct node *root, int direction);
@@ -64,7 +64,7 @@ struct node * binary_tree_to_doubly_LL(struct node *root, int direction)
 	return root;
 }
 
-struct node *to_doubly(struct node *root)
+struct node * to_doubly(struct node *root)
 {
   //to get the left most connected node we are sending the direction as right
 	root = binary_tree_to_doubly_LL(root, 2);
