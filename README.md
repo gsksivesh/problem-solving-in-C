@@ -11,3 +11,8 @@ searching an element in matrix which is sorted row wise and coloumn wise and ret
 
 #Binary Tree to Doubly Linked List
 Given a binary tree convert it into doubly linked list without using extra space
+
+#Permutations of a String
+Finding all the permutations of a String
+-Permutations lexicographically
+-Permutations without any order
